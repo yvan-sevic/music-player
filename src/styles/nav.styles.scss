@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top:30px;
+
+    button {
+        background-color: white;
+        padding:0.5rem;
+        color: rgb(65, 65, 65);
+        border: 1px solid rgb(65, 65, 65);
+        cursor: pointer;
+        letter-spacing: 0.4px;
+    }
+
+
+}
